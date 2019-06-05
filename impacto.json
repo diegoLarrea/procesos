@@ -1,5 +1,5 @@
 [
-  {"id":0,"Muy leve"},
-  {"id":1,"Moderado"},
-  {"id":2,"Muy grave"}
+  {"id":0,"impacto":"Muy leve"},
+  {"id":1,"impacto":"Moderado"},
+  {"id":2,"impacto":"Muy grave"}
 ]
