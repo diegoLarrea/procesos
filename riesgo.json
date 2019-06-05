@@ -1,0 +1,9 @@
+[
+  {"id":0,"riesgo":"Fraude Interno"},
+  {"id":1,"riesgo":"Fraude Externo"},
+  {"id":2,"riesgo":"Relaciones laborales y seguridad en el puesto de trabajo"},
+  {"id":3,"riesgo":"Daños a activos materiales"},
+  {"id":4,"riesgo":"Interrupción del negocio y fallos en los sistemas"},
+  {"id":5,"riesgo":"Prácticas con los clientes, productos y negocios"},
+  {"id":6,"riesgo":"Ejecución, entrega y procesamiento"}
+]
