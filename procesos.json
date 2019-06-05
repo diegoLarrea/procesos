@@ -1,0 +1,6 @@
+[
+  {"id":0,"macropr":"macro proceso 1","proceso":"comer de cabeza"},
+  {"id":1,"macropr":"macro proceso 2","proceso":"comer"},
+  {"id":2,"macropr":"macro proceso 3","proceso":"cabeza pie"},
+  {"id":3,"macropr":"macro proceso 4","proceso":"mano de cabeza"}
+]
